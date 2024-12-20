@@ -1,5 +1,7 @@
 Eco-Friendliness Scoring System for Used Cars
+
 Overview
+
 This project applies data science techniques to the car sales domain, focusing on assessing the eco-friendliness of used cars. A scoring system was developed to evaluate vehicles based on key environmental factors. Using clustering techniques, cars were categorized into three distinct groups:
 
 Eco-Friendly
