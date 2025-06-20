@@ -25,6 +25,8 @@ Eco-Friendliness Scoring: Developed a weighted scoring system based on features 
 Clustering: Applied KMeans clustering to classify cars into three categories based on their eco-friendliness score.
 Repository Contents
 
+Classification model: Used a stacking ensemble classifier to create a model to predict the Eco-Tier of a car by just with its information.
+
 Web_scrape.ipynb: Code for scraping car data from PistonHeads.
 
 EDA.ipynb: Notebook for exploratory data analysis and generating visualizations.
